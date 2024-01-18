@@ -12,3 +12,7 @@ REACT_APP_AUTH0_CALLBACK_URL=
 ```
 npm run start
 ```
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+![Alt text](image-2.png)
